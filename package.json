@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "colors": "^1.4.0",
+    "package.json": "^2.0.1",
     "semver": "^6.3.0"
   }
 }
